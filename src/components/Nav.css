@@ -1,0 +1,17 @@
+nav {
+  background-color: #0c111c;
+  display: flex;
+  height: auto;
+  color: white;
+  align-items: center;
+  padding: 0 1rem;
+}
+
+nav .right-nav a {
+  color: inherit;
+  padding: 0 .8rem;
+}
+
+.left-nav {
+  flex-grow: 1;
+}
