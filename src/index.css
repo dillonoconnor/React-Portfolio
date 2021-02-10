@@ -1,5 +1,6 @@
 html {
   background-color: #111827;
+  color: white;
 }
 
 body {
@@ -14,4 +15,12 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+h2 {
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-size: 1.5rem;
 }
